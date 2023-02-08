@@ -1,0 +1,25 @@
+{
+  "name": "stufffromdiscord",
+  "version": "1.0.0",
+  "description": "open sourced project based of off HFD",
+  "main": "src/start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/start.js",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrydenIsNotSmart/StuffFromDiscord.git"
+  },
+  "keywords": [
+    "botlist",
+    "serverlist"
+  ],
+  "author": "vitaldevs.org",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrydenIsNotSmart/StuffFromDiscord/issues"
+  },
+  "homepage": "https://github.com/BrydenIsNotSmart/StuffFromDiscord#readme"
+}
